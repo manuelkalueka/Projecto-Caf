@@ -1,1 +1,9 @@
 C:\Users\Fernando Congolo\Documents\Kalueka-Desktop\Projecto-Caf\Projecto-Caf\bin\Debug\Projecto-Caf.exe.config
+C:\Users\Fernando Congolo\Documents\Kalueka-Desktop\Projecto-Caf\Projecto-Caf\bin\Debug\Projecto-Caf.exe
+C:\Users\Fernando Congolo\Documents\Kalueka-Desktop\Projecto-Caf\Projecto-Caf\bin\Debug\Projecto-Caf.pdb
+C:\Users\Fernando Congolo\Documents\Kalueka-Desktop\Projecto-Caf\Projecto-Caf\obj\Debug\Projecto-Caf.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Congolo\Documents\Kalueka-Desktop\Projecto-Caf\Projecto-Caf\obj\Debug\Projecto_Caf.frmMain.resources
+C:\Users\Fernando Congolo\Documents\Kalueka-Desktop\Projecto-Caf\Projecto-Caf\obj\Debug\Projecto_Caf.Properties.Resources.resources
+C:\Users\Fernando Congolo\Documents\Kalueka-Desktop\Projecto-Caf\Projecto-Caf\obj\Debug\Projecto-Caf.csproj.GenerateResource.Cache
+C:\Users\Fernando Congolo\Documents\Kalueka-Desktop\Projecto-Caf\Projecto-Caf\obj\Debug\Projecto-Caf.exe
+C:\Users\Fernando Congolo\Documents\Kalueka-Desktop\Projecto-Caf\Projecto-Caf\obj\Debug\Projecto-Caf.pdb
